@@ -2,6 +2,6 @@
 
 ## Tools: React.js, React Router, Tailwind CSS, Daisy UI
 
-## Live Link: git push -u origin main
+## Live Link: https://tangil90-protfolio.netlify.app/
 
 ## Thanks for watching this project
