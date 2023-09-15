@@ -2,6 +2,6 @@
 
 ## Tools: React.js, React Router, Tailwind CSS, Daisy UI
 
-## Live Link: #
+## Live Link: git push -u origin main
 
 ## Thanks for watching this project
